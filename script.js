@@ -210,13 +210,6 @@ const caseData = {
     method: 'Capture and analyze traffic, track IP-to-MAC address mappings, and compare changes over time.',
     outcome: 'Generated security alerts when suspicious ARP activity was detected.'
   },
-  '03': {
-    title: 'CYBER HYGIENE & AWARENESS PROGRAM',
-    summary: 'A 120-hour experiential learning program in cyber hygiene and cyber awareness through MY Bharat.',
-    objective: 'Build strong foundations in safe internet usage, digital protection, and responsible digital citizenship.',
-    method: 'Studied phishing, malware, password security, online privacy, cybercrime prevention, and data protection.',
-    outcome: 'Strengthened practical understanding of secure online behavior and information security fundamentals.'
-  }
 };
 $$('.case').forEach(card => {
   const openCase = () => {
